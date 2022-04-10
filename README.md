@@ -1,2 +1,2 @@
-<a onclick="gg()"><img class="w-100 rounded" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png"/></a>
+<a onclick="gg()"><img class="w-100 rounded" src="https://images.headlines.pw/topnews-2017/imgs/02/c2/02c2478732c3e680f9acde18a2c9a39b692847ae.jpg"/></a>
             </div>
